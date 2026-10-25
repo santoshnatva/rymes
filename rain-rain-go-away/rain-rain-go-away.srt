@@ -1,0 +1,31 @@
+1
+00:00:04,950 --> 00:00:09,800
+Rain, rain, go away.
+
+2
+00:00:09,950 --> 00:00:14,800
+Come again another day.
+
+3
+00:00:14,950 --> 00:00:19,800
+Little children want to play.
+
+4
+00:00:19,950 --> 00:00:24,400
+Rain, rain, go away!
+
+5
+00:00:34,950 --> 00:00:39,800
+Rain, rain, go away.
+
+6
+00:00:39,950 --> 00:00:44,800
+Come again another day.
+
+7
+00:00:44,950 --> 00:00:49,800
+Little children want to play.
+
+8
+00:00:49,950 --> 00:00:54,400
+Rain, rain, go away!

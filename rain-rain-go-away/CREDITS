@@ -1,0 +1,17 @@
+Rain, Rain, Go Away — crayon picture-book nursery rhyme film
+
+Words and tune: "Rain, Rain, Go Away", traditional English nursery rhyme (public domain). Arrangement in music/score.py is original.
+
+Pictures: drawn entirely in code (WebGL2 + Canvas2D crayon engine adapted from the Lemo-Opuscar library, MIT licence).
+
+Fonts (SIL Open Font License 1.1, files and licences in fonts/):
+- Patrick Hand, Patrick Wagesreiter — https://github.com/google/fonts/tree/main/ofl/patrickhand
+- Gaegu, JIKJI SOFT — https://github.com/google/fonts/tree/main/ofl/gaegu
+
+Instrument samples (CC0 1.0):
+- Alto recorder, glockenspiel, shaker, woodblock: Versilian Community Sample Library (VCSL), Versilian Studios
+- Bassoon, clarinet: VS Chamber Orchestra: Community Edition (VSCO 2 CE), Versilian Studios
+- Ukulele: FreePats project (freepats.zenvoid.org)
+- Music box: physically modelled (Lemo-Opuscar pluck.py), no samples
+
+Sound effects and ambience (rain, birds, wind, crayon, brush, footsteps): synthesised procedurally in mix.py; no recordings.
